@@ -18,7 +18,7 @@ module.exports = function (grunt) {
 
     // Merge task-specific and/or target-specific options with these defaults.
     var options = this.options({
-      who: 'buddha',              //替换默认项目
+      who: 'buddha',              //替换默认项目 buddha and alpaca 最终起作用还是gruntfile
       commentSymbol: '//'
     });
     var testExistRegexMap = {

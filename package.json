@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "buddha\\'s grace illminates code as sunshine",
   "repository": "https://github.com/limerickgds/grunt-buddha-gds",
+  "homepage" : "http://limerickgds.github.io/grunt-buddha-gds/" ,
   "author": {
     "name": "limerick",
     "email": "619650072@qq.com",

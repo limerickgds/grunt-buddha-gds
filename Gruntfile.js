@@ -34,7 +34,7 @@ module.exports = function (grunt) {
     // Configuration to be run (and then tested).  删除了原来的配置，自定义
     buddha_gds: {
       options: {
-        who:'alpaca',  //可以取值buddha alpaca
+        who:'buddha',  //可以取值buddha alpaca
         commentSymbol:'//'    //通过哪种注释符号来吧字符添加到js中
       },
       dist:['test/fixtures/*.js']  //目标文件
